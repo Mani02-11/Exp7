@@ -61,7 +61,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Manikandan P"
+            android:text="Name: Manikandan P"
             android:textColor="@android:color/white"
             android:textSize="16sp"
             android:textStyle="bold"
@@ -72,9 +72,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="25MCAR0186"
-            android:textColor="#E9D5FF"
-            android:textSize="14sp"
+            android:text="USN: 25MCAR0186"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:textStyle="bold"
             android:gravity="center" />
 
     </LinearLayout>
