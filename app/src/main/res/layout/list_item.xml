@@ -2,6 +2,7 @@
 
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="70dp"
     android:orientation="horizontal"
@@ -15,7 +16,7 @@
         android:layout_height="45dp"
         android:padding="10dp"
         android:background="@drawable/icon_bg"
-        android:tint="@android:color/white"
+        app:tint="@android:color/white"
         android:contentDescription="Technology Icon" />
 
     <TextView
