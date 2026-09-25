@@ -1,6 +1,6 @@
-# 📱 Android Lab Experiment 7 – Adaptive UI, ListView, and Navigation
+# 📱 Android Lab Experiment 7 – Adaptive UI, ListView and ImangeView
 
-A simple Android application developed using **Android Studio** and **Kotlin** as part of the **Mobile Application Development Lab**. The application demonstrates the use of an **Adaptive UI** with **ListView**, **ImageView**, and **Activities** to create a flexible and responsive user interface that adapts to both portrait and landscape orientations.
+A simple Android application developed using **Android Studio** and **Kotlin** as part of the **Mobile Application Development Lab**. The application demonstrates the use of an **Adaptive UI** with **ListView** and **ImageView** to create a flexible and responsive user interface that adapts to both portrait and landscape orientations.
 
 ---
 
@@ -19,7 +19,7 @@ A simple Android application developed using **Android Studio** and **Kotlin** a
 - Incorporates dynamic `ImageView` components with responsive tinting.
 - Shows detailed information about the selected technology in a secondary Activity.
 - Supports smooth Intent-based Navigation with data passing (Extras).
-- Built using Kotlin, Android Studio, and modern Material Components XML styling.
+- Built using Kotlin, Android Studio and modern Material Components XML styling.
 
 ---
 
