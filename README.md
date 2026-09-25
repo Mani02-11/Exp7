@@ -90,7 +90,8 @@ app
 - **Name (Manikandan P) and USN (25MCAR0186)** are clearly displayed on the main screen.
 
 **Screenshot:** 
-<!-- Paste your Portrait Launch Screenshot here -->
+<img width="400" height="660" alt="1000171522" src="https://github.com/user-attachments/assets/f00dfcfd-d945-489e-89a1-eb80b53c2dc6" />
+
 
 
 ---
@@ -105,7 +106,8 @@ app
 - **Name and USN** are displayed on the left column.
 
 **Screenshot:** 
-<!-- Paste your Landscape Screenshot here -->
+<img width="700" height="410" alt="1000171521" src="https://github.com/user-attachments/assets/0fefb568-d1c3-43e4-ad12-ae4c54dce14f" />
+
 
 
 ---
@@ -120,7 +122,8 @@ app
 - A descriptive subtext ("Awesome technology selected!") is shown.
 
 **Screenshot:** 
-<!-- Paste your Detail Activity Screenshot here -->
+<img width="400" height="660" alt="1000171523" src="https://github.com/user-attachments/assets/009b96bd-713d-4bff-8029-238e1dcbf717" />
+
 
 
 ---
