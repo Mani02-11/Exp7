@@ -2,7 +2,6 @@ package com.project.exp7
 
 import android.os.Bundle
 import android.widget.ListView
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
@@ -40,12 +39,11 @@ class MainActivity : AppCompatActivity() {
         listView.adapter = adapter
 
         listView.setOnItemClickListener { _, _, position, _ ->
-
-            Toast.makeText(
-                this,
-                "Selected: ${technologyNames[position]}",
-                Toast.LENGTH_SHORT
-            ).show()
+            val intent = android.content.Intent(this, DetailActivity::class.java).apply {
+                putExtra("EXTRA_NAME", technologyNames[position])
+                putExtra("EXTRA_ICON", technologyIcons[position])
+            }
+            startActivity(intent)
         }
     }
 }
